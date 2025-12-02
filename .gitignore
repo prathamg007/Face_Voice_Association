@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.csv
+*.wav
+*.mp3
+*.jpg
+*.png
+checkpoints/
+data/
+outputs/
+!assets/*.png
