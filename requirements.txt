@@ -1,0 +1,17 @@
+torch
+torchaudio
+torchvision
+numpy
+pandas
+tqdm
+scikit-learn
+speechbrain
+pyannote.audio
+tensorflow
+keras_vggface
+keras_applications
+librosa
+soundfile
+pydub
+scipy
+pillow
