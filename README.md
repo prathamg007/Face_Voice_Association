@@ -132,3 +132,7 @@ Pratham Gupta (IIT Kanpur)
 
 Shubham Yadav (IIT Kanpur)
 
+
+LINK TO THE PAPER
+
+https://www.techrxiv.org/users/1012487/articles/1372604-cafnet-cross-attentive-face-voice-fusion-network?commit=3e1b6f7ae241ee4d5c0540cb3996513d31fb77f6
